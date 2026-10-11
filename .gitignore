@@ -1,0 +1,5 @@
+platform-tools/
+apk/
+*.apk
+*.ab
+*.zip
